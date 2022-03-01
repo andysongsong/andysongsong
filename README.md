@@ -33,6 +33,7 @@ An engineering-minded problem solver, task-driven developer and effective team p
 ![](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-43853D?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/46971406-ad7e-4486-a3e8-51ce86275169/deploy-status)](https://app.netlify.com/sites/vigorous-roentgen-aae521/deploys)
 
 ### Github Analytics
 
