@@ -19,8 +19,6 @@ An engineering-minded problem solver, task-driven developer and effective team p
 **💻 ToolKit:**
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
-![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=Blue)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express-800080?style=for-the-badge&logo=Express&logoColor=white)
